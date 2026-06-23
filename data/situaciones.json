@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Chequeo de rutina Pediatria",
+    "duracion": 30,
+    "especialidad": "Pediatria"
+  },
+  {
+    "nombre": "Chequeo Cardiovascular",
+    "duracion": 60,
+    "especialidad": "Cardiologia"
+  },
+  {
+    "nombre": "Consulta Pediatrica urgente",
+    "duracion": 45,
+    "especialidad": "Pediatria"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "remitente": "andrea@paciente.com",
+    "destinatario": "augusto@medico.com",
+    "fecha": "2026-06-23",
+    "hora": 550,
+    "mensaje": "Hola doctor, tengo una consulta sobre mi receta."
+  },
+  {
+    "remitente": "augusto@medico.com",
+    "destinatario": "andrea@paciente.com",
+    "fecha": "2026-06-23",
+    "hora": 555,
+    "mensaje": "Hola Andrea, por supuesto, dime que necesitas aclarar."
+  }
+]

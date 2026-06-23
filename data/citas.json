@@ -1,0 +1,13 @@
+[
+  {
+    "paciente": "andrea@paciente.com",
+    "doctor": "augusto@medico.com",
+    "Situacion": "Chequeo de rutina Pediatria",
+    "Hora": 540,
+    "fecha": "2026-06-25",
+    "consultorio": "Consultorio 1",
+    "Especialidad": "Pediatria",
+    "HoraF": 570,
+    "receta": "El doctor no ha generado una receta aun"
+  }
+]

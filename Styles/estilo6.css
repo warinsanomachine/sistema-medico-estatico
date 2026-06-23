@@ -1,0 +1,78 @@
+body {
+    background-color:#006980;
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+    font-family: 'Ottawa Bold';
+    height: 80vh;
+    margin: -20px 0 70px;
+    overflow-x: hidden;
+    
+    
+}
+header {
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 25px;
+    height: 120px;
+    text-align: center;
+}
+ * {
+    box-sizing: border-box;
+}
+.titulo {
+    font-size: 50px;
+    display: flex;
+    justify-content: left;
+    margin-left: 100px;
+    position: absolute;
+    top: 3%;
+    color: black;
+}
+
+.volver {
+    margin: 10px;
+    position: absolute;
+    top: 3%;
+    border-color: #006980;
+}
+
+button {
+    border-radius: 20px;
+    border: 1px solid #fff;
+    background-color: #006980;
+    color: #fff;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 12px 45px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: transform 80ms ease-in;
+    margin-top: 30px;
+}
+
+button:hover {
+
+    background-color: #067863;
+    color: #fff;
+    border-color: #006980;
+    border-width: 2px;
+}
+
+
+button:active {
+    transform: scale(0.95);
+}
+
+button:focus {
+    outline: none;
+}
+
+button.ghost {
+    background-color: transparent;
+    border-color:#006980;
+}
+
+

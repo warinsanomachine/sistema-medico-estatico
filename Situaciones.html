@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link rel="shortcut icon" href="IMG/signomedical.png">
+    <link rel="stylesheet" href="Styles/estilo6.css">
+    <title>Registro de Situación</title>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+    <style>
+        .controlador {
+            background-color: #fff;
+            margin: 20px auto;
+            padding: 20px;
+            width: 800px;
+            border-radius: 25px;
+            box-shadow: 0 14px 28px rgba(0,0,0,0.25);
+        }
+        .controlador table {
+            width: 80%;
+            margin: 0 auto;
+            color: #006980;
+        }
+        .controlador input, .controlador select {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 10px;
+            border: 3px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        .controlador input[type="submit"] {
+            border-radius: 20px;
+            border: 1px solid #fff;
+            background-color: #006980;
+            color: #fff;
+            font-size: 12px;
+            font-weight: bold;
+            padding: 15px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            cursor: pointer;
+            margin-top: 15px;
+        }
+        .controlador input[type="submit"]:hover {
+            background-color: #067863;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <br><pre><a><img src="IMG/logo2.jpg" align="left" width="50" height="50"></a>                     <a class="titulo">Registro de Situación</a>                                                                                                              <a  href="IndAdmin.html"><button class="volver" align="right">Volver</button></a></pre>
+    </header>
+    <form class="controlador">
+        <table style="text-align: left; margin-left: auto; margin-right: auto;">
+            <tbody>
+                <br><br>
+                <tr>
+                    <td><label>Nombre de la situación:</label></td>
+                </tr>
+                <tr>
+                    <td><input name="NSit" required="required" maxlength="40"></td>
+                </tr>
+                <tr>
+                    <td><label>Duración (minutos):</label></td>
+                </tr>
+                <tr>
+                    <td><input type="number" min="1" name="Dur" required="required" max="540"></td>
+                </tr>
+                <tr>
+                    <td><label>Especialidad que lo cubre:</label></td>
+                </tr>
+                <tr>
+                    <td>
+                        <select name="EspC">
+                            <!-- Options populated by app.js -->
+                        </select>
+                    </td>
+                </tr>
+                <tr align="center">
+                    <td><input value="Agregar Situacion" name="accion" type="submit"/></td>
+                </tr>
+            </tbody>
+        </table>
+    </form>
+    <script src="js/app.js"></script>
+</body>
+</html>

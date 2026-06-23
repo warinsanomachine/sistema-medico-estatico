@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link rel="shortcut icon" href="IMG/signomedical.png">
+    <link rel="stylesheet" href="Styles/estilo6.css">
+    <title>Registrar Doctor</title>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+    <style>
+        .controlador {
+            background-color: #fff;
+            margin: 20px auto;
+            padding: 20px;
+            width: 800px;
+            border-radius: 25px;
+            box-shadow: 0 14px 28px rgba(0,0,0,0.25);
+        }
+        .controlador table {
+            width: 80%;
+            margin: 0 auto;
+            color: #006980;
+        }
+        .controlador input, .controlador select {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 10px;
+            border: 3px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        .controlador input[type="submit"] {
+            border-radius: 20px;
+            border: 1px solid #fff;
+            background-color: #006980;
+            color: #fff;
+            font-size: 12px;
+            font-weight: bold;
+            padding: 15px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            cursor: pointer;
+            margin-top: 15px;
+        }
+        .controlador input[type="submit"]:hover {
+            background-color: #067863;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <br><pre><a><img src="IMG/logo2.jpg" align="left" width="50" height="50"></a>                     <a class="titulo">Registrar Doctor</a>                                                                                                              <a  href="IndAdmin.html"><button class="volver" align="right">Volver</button></a></pre>
+    </header>
+    <div>
+        <form class="controlador">
+            <table>
+                <tbody>
+                    <tr>
+                        <td><label>Nombre(s) del Doctor</label></td>
+                    </tr>
+                    <tr>
+                        <td><input name="name" required="required" maxlength="20"></td>
+                    </tr>
+                    <tr>
+                        <td><label>Apellidos del Doctor</label></td>
+                    </tr>
+                    <tr>
+                        <td><input name="ape" required="required" maxlength="20"></td>
+                    </tr>
+                    <tr>
+                        <td><label>Correo del Doctor</label></td>
+                    </tr>
+                    <tr>
+                        <td><input name="email" required="required" type="email" maxlength="200"></td>
+                    </tr>
+                    <tr>
+                        <td><label>Contraseña de la cuenta:</label></td>
+                    </tr>
+                    <tr>
+                        <td><input name="password" required="required" maxlength="30"></td>
+                    </tr>
+                    <tr>
+                        <td><label>Horario del doctor:</label></td>
+                    </tr>
+                    <tr>
+                        <td>Inicio:</td>
+                    </tr>
+                    <tr>
+                        <td><input type="time" name="horI" required="required"></td>
+                    </tr>
+                    <tr>
+                        <td>Fin:</td>
+                    </tr>
+                    <tr>
+                        <td><input type="time" name="horF" required="required"></td>
+                    </tr>
+                    <tr>
+                        <td><label>Especialidad: </label></td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <select name="Esp">
+                                <!-- Options populated by app.js -->
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><label>Consultorio: </label></td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <select name="Cons">
+                                <!-- Options populated by app.js -->
+                            </select>
+                        </td>
+                    </tr>
+                    <tr align="center">
+                        <td><input value="Agregar Doctor" name="accion" type="submit"/></td>
+                    </tr>
+                </tbody>
+            </table>
+        </form>
+    </div>
+    <script src="js/app.js"></script>
+</body>
+</html>

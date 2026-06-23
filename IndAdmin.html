@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link rel="shortcut icon" href="IMG/signomedical.png">
+    <link rel="stylesheet" href="Styles/estilo7.css">
+    <title>Registro General - Admin</title>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+    <style>
+        /* Styles to keep the table readable */
+        table {
+            width: 80%;
+            border-collapse: collapse;
+            margin: 20px auto;
+            color: #000;
+        }
+        th, td {
+            border: 1px solid #ccc;
+            padding: 10px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <a><img src="IMG/logo2.jpg" align="left" width="90" height="90"></a>
+        <a class="titulo">Registro General</a>  
+        <input class="menu-icon" type="checkbox" id="menu-icon" name="menu-icon"/>
+        <label for="menu-icon"></label>
+        <nav class="nav">     
+            <ul class="pt-5">
+                <li><a href="registrar2.html">Registrar Doctor</a></li>
+                <li><a href="Situaciones.html">Registrar Situaciones</a></li>
+                <li><a href="Especialidad.html">Registrar Especialidad</a></li>
+                <li><a href="Consultorios.html">Registrar Consultorio</a></li>
+                <li><a href="#" onclick="clearSession(); window.location.href='index.html';">Cerrar Sesión</a></li>
+            </ul>
+        </nav>
+    </header>
+    <table border="1" align="center">
+        <thead>
+            <tr>
+                <th>Nombre doctor</th>
+                <th>Especialidad</th>
+                <th>Inicio de horario</th>
+                <th>Fin de horario</th>
+                <th>Consultorio</th>
+                <th>Citas Vigentes</th>
+                <th>Total de citas</th>
+                <th>Estado</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Rows rendered dynamically by app.js -->
+        </tbody>
+    </table>
+    <script src="js/app.js"></script>
+</body>
+</html>

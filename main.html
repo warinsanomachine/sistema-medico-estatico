@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inicio de sesion</title>
+    <link rel="stylesheet" href="Styles/esilo2.css">
+    <link rel="shortcut icon" href="IMG/signomedical.png">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+</head>
+<body>
+    <div class="container" id="container">
+        <div class="form-container sign-up-container">
+            <form>
+                <h1>Crear Cuenta</h1>    
+                <input type="text" id="name" name="name" placeholder="Nombre(s)" maxlength="20" required="required"/>
+                <input type="text" name="ape" placeholder="Apellidos" maxlength="20" required="required"/>
+                <input type="email" id="email" name="email" placeholder="Correo Electronico" maxlength="300" required="required"/>
+                <input type="text" id="password" name="password" placeholder="Contraseña" maxlength="30" required="required"/>
+                <input type="submit" name="accion" value="Crear">
+            </form>
+        </div>
+        <div class="form-container sign-in-container">
+            <form>
+                <h1>Iniciar sesion</h1>
+                <input type="email" name="email" placeholder="Correo Electronico" required="required"/>
+                <input type="password" name="password" placeholder="Contraseña" required="required"/>
+                <a href="#">Olvidaste tu contraseña?</a>
+                <input type="submit" value="Iniciar Sesión">
+            </form>
+        </div>
+        <div class="overlay-container">
+            <div class="overlay">
+                <div class="overlay-panel overlay-left">
+                    <h1>Bienvenido de vuelta</h1>
+                    <p>Para mantenerte conectado con nosotros, inicia sesion con tu informacion</p>
+                    <button class="ghost" id="signIn">Iniciar Sesion</button>
+                    <div class="social-container">
+                        <img height="180" width="159" src="IMG/logo2.jpg" alt="">
+                    </div>
+                </div>
+                <div class="overlay-panel overlay-right">
+                    <h1>Bienvenido!!</h1>
+                    <p>Ingresa tus datos para empezar con nosotros</p>
+                    <button class="ghost" id="signUp">Crear Cuenta</button>
+                    <div class="social-container">
+                        <img height="180" width="159" src="IMG/logo2.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>  
+    <script src="JS/Sesion.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

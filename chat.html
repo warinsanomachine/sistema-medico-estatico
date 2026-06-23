@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link rel="stylesheet" href="Styles/estilo9.css">
+    <link rel="shortcut icon" href="IMG/signomedical.png">
+    <title>Chat</title>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+    <style>
+        .chat-table {
+            background-color: #10403B;
+        }
+        .message {
+            border-bottom: 1px solid #ccc;
+        }
+        .sender {
+            font-weight: bold;
+        }
+        .content {
+            padding-left: 10px;
+        }
+        .timestamp {
+            font-size: 0.8em;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+    <header style="position: sticky; top: 0; z-index: 10;">
+        <br><pre><a><img src="IMG/logo2.jpg" align="left" width="50" height="50"></a>                     <a class="titulo">Mensajes con el doctor</a>                                                                                                              <a  href="index.html"><button class="volver" align="right">Volver</button></a></pre>
+    </header>
+    <pre><form><input type="text" maxlength="1000" name="mensaje" id="mensaje" value="" placeholder="Mensaje"><button type="submit" class="btn btn-primary">Enviar</button></form></pre>
+    <table class="chat-table" style="width: 70%; align-self: center">
+        <!-- Messages rendered dynamically by app.js -->
+    </table>
+    <br>
+    <script src="js/app.js"></script>
+</body>
+</html>

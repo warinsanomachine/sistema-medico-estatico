@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agendar citas</title>
+    <link rel="stylesheet" href="Styles/estilo33.css">
+    <link rel="shortcut icon" href="IMG/signomedical.png">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+</head>
+<body>
+    <header>
+        <br><pre><a><img src="IMG/logo2.jpg" align="left" width="50" height="50"></a>                     <a class="titulo">Registrar citas</a>                                                                                                              <a  href="index.html"><button class="volver" align="right">Volver</button></a></pre>
+    </header>
+    <div class="marco">
+        <div class="marco2">
+            <form class="controlador">
+                <label>Nombre(s):</label>
+                <input name="nombre" value="" disabled>
+                <label>Apellidos:</label>
+                <input name="Ape" value="" disabled>
+                <label>Situación:</label>
+                <select name="Sit">
+                    <!-- Options populated by app.js -->
+                </select>
+                <label>Día de la cita:</label>
+                <input type="date" name="Dia" required="required">
+                <input type="submit" name="accion" value="Confirmar">
+            </form>
+        </div>
+    </div>    
+    <script src="js/app.js"></script>
+</body>
+</html>

@@ -53,7 +53,8 @@ El sistema está respaldado por un modelo relacional compuesto por 7 entidades p
 </details>
 
 ## 🔗 Link de la demo
-https://sistemamedico-1gmy.onrender.com
+- **Versión con Base de Datos (PostgreSQL):** https://sistemamedico-1gmy.onrender.com
+- **Versión Estática (GitHub Pages):** https://warinsanomachine.github.io/sistema-medico-estatico/
 
 ## 👤 Usuarios de prueba:
 

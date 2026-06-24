@@ -1,0 +1,709 @@
+﻿[
+    {
+        "nombre":  "Admin",
+        "apellidos":  "General",
+        "email":  "admin@medico.com",
+        "contra":  "Admin123",
+        "nivel":  3
+    },
+    {
+        "nombre":  "Doctor1",
+        "apellidos":  "Perez1",
+        "email":  "doctor1@medico.com",
+        "contra":  "Doctor1123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor2",
+        "apellidos":  "Perez2",
+        "email":  "doctor2@medico.com",
+        "contra":  "Doctor2123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor3",
+        "apellidos":  "Perez3",
+        "email":  "doctor3@medico.com",
+        "contra":  "Doctor3123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor4",
+        "apellidos":  "Perez4",
+        "email":  "doctor4@medico.com",
+        "contra":  "Doctor4123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor5",
+        "apellidos":  "Perez5",
+        "email":  "doctor5@medico.com",
+        "contra":  "Doctor5123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor6",
+        "apellidos":  "Perez6",
+        "email":  "doctor6@medico.com",
+        "contra":  "Doctor6123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor7",
+        "apellidos":  "Perez7",
+        "email":  "doctor7@medico.com",
+        "contra":  "Doctor7123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor8",
+        "apellidos":  "Perez8",
+        "email":  "doctor8@medico.com",
+        "contra":  "Doctor8123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor9",
+        "apellidos":  "Perez9",
+        "email":  "doctor9@medico.com",
+        "contra":  "Doctor9123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor10",
+        "apellidos":  "Perez10",
+        "email":  "doctor10@medico.com",
+        "contra":  "Doctor10123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor11",
+        "apellidos":  "Perez11",
+        "email":  "doctor11@medico.com",
+        "contra":  "Doctor11123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor12",
+        "apellidos":  "Perez12",
+        "email":  "doctor12@medico.com",
+        "contra":  "Doctor12123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor13",
+        "apellidos":  "Perez13",
+        "email":  "doctor13@medico.com",
+        "contra":  "Doctor13123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor14",
+        "apellidos":  "Perez14",
+        "email":  "doctor14@medico.com",
+        "contra":  "Doctor14123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor15",
+        "apellidos":  "Perez15",
+        "email":  "doctor15@medico.com",
+        "contra":  "Doctor15123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor16",
+        "apellidos":  "Perez16",
+        "email":  "doctor16@medico.com",
+        "contra":  "Doctor16123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor17",
+        "apellidos":  "Perez17",
+        "email":  "doctor17@medico.com",
+        "contra":  "Doctor17123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor18",
+        "apellidos":  "Perez18",
+        "email":  "doctor18@medico.com",
+        "contra":  "Doctor18123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor19",
+        "apellidos":  "Perez19",
+        "email":  "doctor19@medico.com",
+        "contra":  "Doctor19123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor20",
+        "apellidos":  "Perez20",
+        "email":  "doctor20@medico.com",
+        "contra":  "Doctor20123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor21",
+        "apellidos":  "Perez21",
+        "email":  "doctor21@medico.com",
+        "contra":  "Doctor21123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor22",
+        "apellidos":  "Perez22",
+        "email":  "doctor22@medico.com",
+        "contra":  "Doctor22123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor23",
+        "apellidos":  "Perez23",
+        "email":  "doctor23@medico.com",
+        "contra":  "Doctor23123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor24",
+        "apellidos":  "Perez24",
+        "email":  "doctor24@medico.com",
+        "contra":  "Doctor24123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor25",
+        "apellidos":  "Perez25",
+        "email":  "doctor25@medico.com",
+        "contra":  "Doctor25123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor26",
+        "apellidos":  "Perez26",
+        "email":  "doctor26@medico.com",
+        "contra":  "Doctor26123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor27",
+        "apellidos":  "Perez27",
+        "email":  "doctor27@medico.com",
+        "contra":  "Doctor27123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor28",
+        "apellidos":  "Perez28",
+        "email":  "doctor28@medico.com",
+        "contra":  "Doctor28123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor29",
+        "apellidos":  "Perez29",
+        "email":  "doctor29@medico.com",
+        "contra":  "Doctor29123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor30",
+        "apellidos":  "Perez30",
+        "email":  "doctor30@medico.com",
+        "contra":  "Doctor30123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor31",
+        "apellidos":  "Perez31",
+        "email":  "doctor31@medico.com",
+        "contra":  "Doctor31123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor32",
+        "apellidos":  "Perez32",
+        "email":  "doctor32@medico.com",
+        "contra":  "Doctor32123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor33",
+        "apellidos":  "Perez33",
+        "email":  "doctor33@medico.com",
+        "contra":  "Doctor33123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor34",
+        "apellidos":  "Perez34",
+        "email":  "doctor34@medico.com",
+        "contra":  "Doctor34123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor35",
+        "apellidos":  "Perez35",
+        "email":  "doctor35@medico.com",
+        "contra":  "Doctor35123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor36",
+        "apellidos":  "Perez36",
+        "email":  "doctor36@medico.com",
+        "contra":  "Doctor36123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor37",
+        "apellidos":  "Perez37",
+        "email":  "doctor37@medico.com",
+        "contra":  "Doctor37123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor38",
+        "apellidos":  "Perez38",
+        "email":  "doctor38@medico.com",
+        "contra":  "Doctor38123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor39",
+        "apellidos":  "Perez39",
+        "email":  "doctor39@medico.com",
+        "contra":  "Doctor39123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor40",
+        "apellidos":  "Perez40",
+        "email":  "doctor40@medico.com",
+        "contra":  "Doctor40123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor41",
+        "apellidos":  "Perez41",
+        "email":  "doctor41@medico.com",
+        "contra":  "Doctor41123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor42",
+        "apellidos":  "Perez42",
+        "email":  "doctor42@medico.com",
+        "contra":  "Doctor42123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor43",
+        "apellidos":  "Perez43",
+        "email":  "doctor43@medico.com",
+        "contra":  "Doctor43123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor44",
+        "apellidos":  "Perez44",
+        "email":  "doctor44@medico.com",
+        "contra":  "Doctor44123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor45",
+        "apellidos":  "Perez45",
+        "email":  "doctor45@medico.com",
+        "contra":  "Doctor45123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor46",
+        "apellidos":  "Perez46",
+        "email":  "doctor46@medico.com",
+        "contra":  "Doctor46123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor47",
+        "apellidos":  "Perez47",
+        "email":  "doctor47@medico.com",
+        "contra":  "Doctor47123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor48",
+        "apellidos":  "Perez48",
+        "email":  "doctor48@medico.com",
+        "contra":  "Doctor48123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor49",
+        "apellidos":  "Perez49",
+        "email":  "doctor49@medico.com",
+        "contra":  "Doctor49123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Doctor50",
+        "apellidos":  "Perez50",
+        "email":  "doctor50@medico.com",
+        "contra":  "Doctor50123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Paciente1",
+        "apellidos":  "Gomez1",
+        "email":  "paciente1@paciente.com",
+        "contra":  "Paciente1123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente2",
+        "apellidos":  "Gomez2",
+        "email":  "paciente2@paciente.com",
+        "contra":  "Paciente2123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente3",
+        "apellidos":  "Gomez3",
+        "email":  "paciente3@paciente.com",
+        "contra":  "Paciente3123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente4",
+        "apellidos":  "Gomez4",
+        "email":  "paciente4@paciente.com",
+        "contra":  "Paciente4123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente5",
+        "apellidos":  "Gomez5",
+        "email":  "paciente5@paciente.com",
+        "contra":  "Paciente5123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente6",
+        "apellidos":  "Gomez6",
+        "email":  "paciente6@paciente.com",
+        "contra":  "Paciente6123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente7",
+        "apellidos":  "Gomez7",
+        "email":  "paciente7@paciente.com",
+        "contra":  "Paciente7123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente8",
+        "apellidos":  "Gomez8",
+        "email":  "paciente8@paciente.com",
+        "contra":  "Paciente8123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente9",
+        "apellidos":  "Gomez9",
+        "email":  "paciente9@paciente.com",
+        "contra":  "Paciente9123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente10",
+        "apellidos":  "Gomez10",
+        "email":  "paciente10@paciente.com",
+        "contra":  "Paciente10123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente11",
+        "apellidos":  "Gomez11",
+        "email":  "paciente11@paciente.com",
+        "contra":  "Paciente11123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente12",
+        "apellidos":  "Gomez12",
+        "email":  "paciente12@paciente.com",
+        "contra":  "Paciente12123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente13",
+        "apellidos":  "Gomez13",
+        "email":  "paciente13@paciente.com",
+        "contra":  "Paciente13123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente14",
+        "apellidos":  "Gomez14",
+        "email":  "paciente14@paciente.com",
+        "contra":  "Paciente14123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente15",
+        "apellidos":  "Gomez15",
+        "email":  "paciente15@paciente.com",
+        "contra":  "Paciente15123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente16",
+        "apellidos":  "Gomez16",
+        "email":  "paciente16@paciente.com",
+        "contra":  "Paciente16123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente17",
+        "apellidos":  "Gomez17",
+        "email":  "paciente17@paciente.com",
+        "contra":  "Paciente17123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente18",
+        "apellidos":  "Gomez18",
+        "email":  "paciente18@paciente.com",
+        "contra":  "Paciente18123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente19",
+        "apellidos":  "Gomez19",
+        "email":  "paciente19@paciente.com",
+        "contra":  "Paciente19123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente20",
+        "apellidos":  "Gomez20",
+        "email":  "paciente20@paciente.com",
+        "contra":  "Paciente20123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente21",
+        "apellidos":  "Gomez21",
+        "email":  "paciente21@paciente.com",
+        "contra":  "Paciente21123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente22",
+        "apellidos":  "Gomez22",
+        "email":  "paciente22@paciente.com",
+        "contra":  "Paciente22123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente23",
+        "apellidos":  "Gomez23",
+        "email":  "paciente23@paciente.com",
+        "contra":  "Paciente23123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente24",
+        "apellidos":  "Gomez24",
+        "email":  "paciente24@paciente.com",
+        "contra":  "Paciente24123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente25",
+        "apellidos":  "Gomez25",
+        "email":  "paciente25@paciente.com",
+        "contra":  "Paciente25123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente26",
+        "apellidos":  "Gomez26",
+        "email":  "paciente26@paciente.com",
+        "contra":  "Paciente26123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente27",
+        "apellidos":  "Gomez27",
+        "email":  "paciente27@paciente.com",
+        "contra":  "Paciente27123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente28",
+        "apellidos":  "Gomez28",
+        "email":  "paciente28@paciente.com",
+        "contra":  "Paciente28123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente29",
+        "apellidos":  "Gomez29",
+        "email":  "paciente29@paciente.com",
+        "contra":  "Paciente29123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente30",
+        "apellidos":  "Gomez30",
+        "email":  "paciente30@paciente.com",
+        "contra":  "Paciente30123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente31",
+        "apellidos":  "Gomez31",
+        "email":  "paciente31@paciente.com",
+        "contra":  "Paciente31123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente32",
+        "apellidos":  "Gomez32",
+        "email":  "paciente32@paciente.com",
+        "contra":  "Paciente32123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente33",
+        "apellidos":  "Gomez33",
+        "email":  "paciente33@paciente.com",
+        "contra":  "Paciente33123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente34",
+        "apellidos":  "Gomez34",
+        "email":  "paciente34@paciente.com",
+        "contra":  "Paciente34123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente35",
+        "apellidos":  "Gomez35",
+        "email":  "paciente35@paciente.com",
+        "contra":  "Paciente35123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente36",
+        "apellidos":  "Gomez36",
+        "email":  "paciente36@paciente.com",
+        "contra":  "Paciente36123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente37",
+        "apellidos":  "Gomez37",
+        "email":  "paciente37@paciente.com",
+        "contra":  "Paciente37123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente38",
+        "apellidos":  "Gomez38",
+        "email":  "paciente38@paciente.com",
+        "contra":  "Paciente38123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente39",
+        "apellidos":  "Gomez39",
+        "email":  "paciente39@paciente.com",
+        "contra":  "Paciente39123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente40",
+        "apellidos":  "Gomez40",
+        "email":  "paciente40@paciente.com",
+        "contra":  "Paciente40123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente41",
+        "apellidos":  "Gomez41",
+        "email":  "paciente41@paciente.com",
+        "contra":  "Paciente41123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente42",
+        "apellidos":  "Gomez42",
+        "email":  "paciente42@paciente.com",
+        "contra":  "Paciente42123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente43",
+        "apellidos":  "Gomez43",
+        "email":  "paciente43@paciente.com",
+        "contra":  "Paciente43123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente44",
+        "apellidos":  "Gomez44",
+        "email":  "paciente44@paciente.com",
+        "contra":  "Paciente44123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente45",
+        "apellidos":  "Gomez45",
+        "email":  "paciente45@paciente.com",
+        "contra":  "Paciente45123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente46",
+        "apellidos":  "Gomez46",
+        "email":  "paciente46@paciente.com",
+        "contra":  "Paciente46123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente47",
+        "apellidos":  "Gomez47",
+        "email":  "paciente47@paciente.com",
+        "contra":  "Paciente47123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente48",
+        "apellidos":  "Gomez48",
+        "email":  "paciente48@paciente.com",
+        "contra":  "Paciente48123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente49",
+        "apellidos":  "Gomez49",
+        "email":  "paciente49@paciente.com",
+        "contra":  "Paciente49123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Paciente50",
+        "apellidos":  "Gomez50",
+        "email":  "paciente50@paciente.com",
+        "contra":  "Paciente50123",
+        "nivel":  1
+    }
+]

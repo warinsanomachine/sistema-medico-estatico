@@ -1,16 +1,352 @@
-[
-  {
-    "remitente": "andrea@paciente.com",
-    "destinatario": "augusto@medico.com",
-    "fecha": "2026-06-23",
-    "hora": 550,
-    "mensaje": "Hola doctor, tengo una consulta sobre mi receta."
-  },
-  {
-    "remitente": "augusto@medico.com",
-    "destinatario": "andrea@paciente.com",
-    "fecha": "2026-06-23",
-    "hora": 555,
-    "mensaje": "Hola Andrea, por supuesto, dime que necesitas aclarar."
-  }
+﻿[
+    {
+        "remitente":  "paciente1@paciente.com",
+        "destinatario":  "doctor1@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  501,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 1"
+    },
+    {
+        "remitente":  "paciente2@paciente.com",
+        "destinatario":  "doctor2@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  502,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 2"
+    },
+    {
+        "remitente":  "paciente3@paciente.com",
+        "destinatario":  "doctor3@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  503,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 3"
+    },
+    {
+        "remitente":  "paciente4@paciente.com",
+        "destinatario":  "doctor4@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  504,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 4"
+    },
+    {
+        "remitente":  "paciente5@paciente.com",
+        "destinatario":  "doctor5@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  505,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 5"
+    },
+    {
+        "remitente":  "paciente6@paciente.com",
+        "destinatario":  "doctor6@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  506,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 6"
+    },
+    {
+        "remitente":  "paciente7@paciente.com",
+        "destinatario":  "doctor7@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  507,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 7"
+    },
+    {
+        "remitente":  "paciente8@paciente.com",
+        "destinatario":  "doctor8@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  508,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 8"
+    },
+    {
+        "remitente":  "paciente9@paciente.com",
+        "destinatario":  "doctor9@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  509,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 9"
+    },
+    {
+        "remitente":  "paciente10@paciente.com",
+        "destinatario":  "doctor10@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  510,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 10"
+    },
+    {
+        "remitente":  "paciente11@paciente.com",
+        "destinatario":  "doctor11@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  511,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 11"
+    },
+    {
+        "remitente":  "paciente12@paciente.com",
+        "destinatario":  "doctor12@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  512,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 12"
+    },
+    {
+        "remitente":  "paciente13@paciente.com",
+        "destinatario":  "doctor13@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  513,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 13"
+    },
+    {
+        "remitente":  "paciente14@paciente.com",
+        "destinatario":  "doctor14@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  514,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 14"
+    },
+    {
+        "remitente":  "paciente15@paciente.com",
+        "destinatario":  "doctor15@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  515,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 15"
+    },
+    {
+        "remitente":  "paciente16@paciente.com",
+        "destinatario":  "doctor16@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  516,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 16"
+    },
+    {
+        "remitente":  "paciente17@paciente.com",
+        "destinatario":  "doctor17@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  517,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 17"
+    },
+    {
+        "remitente":  "paciente18@paciente.com",
+        "destinatario":  "doctor18@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  518,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 18"
+    },
+    {
+        "remitente":  "paciente19@paciente.com",
+        "destinatario":  "doctor19@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  519,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 19"
+    },
+    {
+        "remitente":  "paciente20@paciente.com",
+        "destinatario":  "doctor20@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  520,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 20"
+    },
+    {
+        "remitente":  "paciente21@paciente.com",
+        "destinatario":  "doctor21@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  521,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 21"
+    },
+    {
+        "remitente":  "paciente22@paciente.com",
+        "destinatario":  "doctor22@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  522,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 22"
+    },
+    {
+        "remitente":  "paciente23@paciente.com",
+        "destinatario":  "doctor23@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  523,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 23"
+    },
+    {
+        "remitente":  "paciente24@paciente.com",
+        "destinatario":  "doctor24@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  524,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 24"
+    },
+    {
+        "remitente":  "paciente25@paciente.com",
+        "destinatario":  "doctor25@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  525,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 25"
+    },
+    {
+        "remitente":  "paciente26@paciente.com",
+        "destinatario":  "doctor26@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  526,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 26"
+    },
+    {
+        "remitente":  "paciente27@paciente.com",
+        "destinatario":  "doctor27@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  527,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 27"
+    },
+    {
+        "remitente":  "paciente28@paciente.com",
+        "destinatario":  "doctor28@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  528,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 28"
+    },
+    {
+        "remitente":  "paciente29@paciente.com",
+        "destinatario":  "doctor29@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  529,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 29"
+    },
+    {
+        "remitente":  "paciente30@paciente.com",
+        "destinatario":  "doctor30@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  530,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 30"
+    },
+    {
+        "remitente":  "paciente31@paciente.com",
+        "destinatario":  "doctor31@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  531,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 31"
+    },
+    {
+        "remitente":  "paciente32@paciente.com",
+        "destinatario":  "doctor32@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  532,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 32"
+    },
+    {
+        "remitente":  "paciente33@paciente.com",
+        "destinatario":  "doctor33@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  533,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 33"
+    },
+    {
+        "remitente":  "paciente34@paciente.com",
+        "destinatario":  "doctor34@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  534,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 34"
+    },
+    {
+        "remitente":  "paciente35@paciente.com",
+        "destinatario":  "doctor35@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  535,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 35"
+    },
+    {
+        "remitente":  "paciente36@paciente.com",
+        "destinatario":  "doctor36@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  536,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 36"
+    },
+    {
+        "remitente":  "paciente37@paciente.com",
+        "destinatario":  "doctor37@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  537,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 37"
+    },
+    {
+        "remitente":  "paciente38@paciente.com",
+        "destinatario":  "doctor38@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  538,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 38"
+    },
+    {
+        "remitente":  "paciente39@paciente.com",
+        "destinatario":  "doctor39@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  539,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 39"
+    },
+    {
+        "remitente":  "paciente40@paciente.com",
+        "destinatario":  "doctor40@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  540,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 40"
+    },
+    {
+        "remitente":  "paciente41@paciente.com",
+        "destinatario":  "doctor41@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  541,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 41"
+    },
+    {
+        "remitente":  "paciente42@paciente.com",
+        "destinatario":  "doctor42@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  542,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 42"
+    },
+    {
+        "remitente":  "paciente43@paciente.com",
+        "destinatario":  "doctor43@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  543,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 43"
+    },
+    {
+        "remitente":  "paciente44@paciente.com",
+        "destinatario":  "doctor44@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  544,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 44"
+    },
+    {
+        "remitente":  "paciente45@paciente.com",
+        "destinatario":  "doctor45@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  545,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 45"
+    },
+    {
+        "remitente":  "paciente46@paciente.com",
+        "destinatario":  "doctor46@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  546,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 46"
+    },
+    {
+        "remitente":  "paciente47@paciente.com",
+        "destinatario":  "doctor47@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  547,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 47"
+    },
+    {
+        "remitente":  "paciente48@paciente.com",
+        "destinatario":  "doctor48@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  548,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 48"
+    },
+    {
+        "remitente":  "paciente49@paciente.com",
+        "destinatario":  "doctor49@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  549,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 49"
+    },
+    {
+        "remitente":  "paciente50@paciente.com",
+        "destinatario":  "doctor50@medico.com",
+        "fecha":  "2026-06-23",
+        "hora":  550,
+        "mensaje":  "Hola doctor, tengo una consulta de prueba. ID 50"
+    }
 ]

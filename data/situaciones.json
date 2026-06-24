@@ -1,17 +1,252 @@
-[
-  {
-    "nombre": "Chequeo de rutina Pediatria",
-    "duracion": 30,
-    "especialidad": "Pediatria"
-  },
-  {
-    "nombre": "Chequeo Cardiovascular",
-    "duracion": 60,
-    "especialidad": "Cardiologia"
-  },
-  {
-    "nombre": "Consulta Pediatrica urgente",
-    "duracion": 45,
-    "especialidad": "Pediatria"
-  }
+﻿[
+    {
+        "nombre":  "Consulta de Pediatria",
+        "duracion":  30,
+        "especialidad":  "Pediatria"
+    },
+    {
+        "nombre":  "Consulta de Cardiologia",
+        "duracion":  45,
+        "especialidad":  "Cardiologia"
+    },
+    {
+        "nombre":  "Consulta de Medicina General",
+        "duracion":  60,
+        "especialidad":  "Medicina General"
+    },
+    {
+        "nombre":  "Consulta de Dermatologia",
+        "duracion":  30,
+        "especialidad":  "Dermatologia"
+    },
+    {
+        "nombre":  "Consulta de Ginecologia",
+        "duracion":  45,
+        "especialidad":  "Ginecologia"
+    },
+    {
+        "nombre":  "Consulta de Oftalmologia",
+        "duracion":  60,
+        "especialidad":  "Oftalmologia"
+    },
+    {
+        "nombre":  "Consulta de Traumatologia",
+        "duracion":  30,
+        "especialidad":  "Traumatologia"
+    },
+    {
+        "nombre":  "Consulta de Neurologia",
+        "duracion":  45,
+        "especialidad":  "Neurologia"
+    },
+    {
+        "nombre":  "Consulta de Psiquiatria",
+        "duracion":  60,
+        "especialidad":  "Psiquiatria"
+    },
+    {
+        "nombre":  "Consulta de Oncologia",
+        "duracion":  30,
+        "especialidad":  "Oncologia"
+    },
+    {
+        "nombre":  "Consulta de Urologia",
+        "duracion":  45,
+        "especialidad":  "Urologia"
+    },
+    {
+        "nombre":  "Consulta de Gastroenterologia",
+        "duracion":  60,
+        "especialidad":  "Gastroenterologia"
+    },
+    {
+        "nombre":  "Consulta de Endocrinologia",
+        "duracion":  30,
+        "especialidad":  "Endocrinologia"
+    },
+    {
+        "nombre":  "Consulta de Neumologia",
+        "duracion":  45,
+        "especialidad":  "Neumologia"
+    },
+    {
+        "nombre":  "Consulta de Nefrologia",
+        "duracion":  60,
+        "especialidad":  "Nefrologia"
+    },
+    {
+        "nombre":  "Consulta de Otorrinolaringologia",
+        "duracion":  30,
+        "especialidad":  "Otorrinolaringologia"
+    },
+    {
+        "nombre":  "Consulta de Anestesiologia",
+        "duracion":  45,
+        "especialidad":  "Anestesiologia"
+    },
+    {
+        "nombre":  "Consulta de Reumatologia",
+        "duracion":  60,
+        "especialidad":  "Reumatologia"
+    },
+    {
+        "nombre":  "Consulta de Hematologia",
+        "duracion":  30,
+        "especialidad":  "Hematologia"
+    },
+    {
+        "nombre":  "Consulta de Infectologia",
+        "duracion":  45,
+        "especialidad":  "Infectologia"
+    },
+    {
+        "nombre":  "Consulta de Alergologia",
+        "duracion":  60,
+        "especialidad":  "Alergologia"
+    },
+    {
+        "nombre":  "Consulta de Inmunologia",
+        "duracion":  30,
+        "especialidad":  "Inmunologia"
+    },
+    {
+        "nombre":  "Consulta de Geriatria",
+        "duracion":  45,
+        "especialidad":  "Geriatria"
+    },
+    {
+        "nombre":  "Consulta de Medicina Interna",
+        "duracion":  60,
+        "especialidad":  "Medicina Interna"
+    },
+    {
+        "nombre":  "Consulta de Cirugia General",
+        "duracion":  30,
+        "especialidad":  "Cirugia General"
+    },
+    {
+        "nombre":  "Consulta de Cirugia Plastica",
+        "duracion":  45,
+        "especialidad":  "Cirugia Plastica"
+    },
+    {
+        "nombre":  "Consulta de Cirugia Cardiovascular",
+        "duracion":  60,
+        "especialidad":  "Cirugia Cardiovascular"
+    },
+    {
+        "nombre":  "Consulta de Cirugia Pediatrica",
+        "duracion":  30,
+        "especialidad":  "Cirugia Pediatrica"
+    },
+    {
+        "nombre":  "Consulta de Neurocirugia",
+        "duracion":  45,
+        "especialidad":  "Neurocirugia"
+    },
+    {
+        "nombre":  "Consulta de Medicina Familiar",
+        "duracion":  60,
+        "especialidad":  "Medicina Familiar"
+    },
+    {
+        "nombre":  "Consulta de Medicina Fisica",
+        "duracion":  30,
+        "especialidad":  "Medicina Fisica"
+    },
+    {
+        "nombre":  "Consulta de Medicina Deportiva",
+        "duracion":  45,
+        "especialidad":  "Medicina Deportiva"
+    },
+    {
+        "nombre":  "Consulta de Medicina Intensiva",
+        "duracion":  60,
+        "especialidad":  "Medicina Intensiva"
+    },
+    {
+        "nombre":  "Consulta de Medicina Forense",
+        "duracion":  30,
+        "especialidad":  "Medicina Forense"
+    },
+    {
+        "nombre":  "Consulta de Medicina Nuclear",
+        "duracion":  45,
+        "especialidad":  "Medicina Nuclear"
+    },
+    {
+        "nombre":  "Consulta de Toxicologia",
+        "duracion":  60,
+        "especialidad":  "Toxicologia"
+    },
+    {
+        "nombre":  "Consulta de Genetica Medica",
+        "duracion":  30,
+        "especialidad":  "Genetica Medica"
+    },
+    {
+        "nombre":  "Consulta de Neonatologia",
+        "duracion":  45,
+        "especialidad":  "Neonatologia"
+    },
+    {
+        "nombre":  "Consulta de Patologia",
+        "duracion":  60,
+        "especialidad":  "Patologia"
+    },
+    {
+        "nombre":  "Consulta de Radiologia",
+        "duracion":  30,
+        "especialidad":  "Radiologia"
+    },
+    {
+        "nombre":  "Consulta de Angiologia",
+        "duracion":  45,
+        "especialidad":  "Angiologia"
+    },
+    {
+        "nombre":  "Consulta de Cardiologia Pediatrica",
+        "duracion":  60,
+        "especialidad":  "Cardiologia Pediatrica"
+    },
+    {
+        "nombre":  "Consulta de Endocrinologia Pediatrica",
+        "duracion":  30,
+        "especialidad":  "Endocrinologia Pediatrica"
+    },
+    {
+        "nombre":  "Consulta de Gastroenterologia Pediatrica",
+        "duracion":  45,
+        "especialidad":  "Gastroenterologia Pediatrica"
+    },
+    {
+        "nombre":  "Consulta de Neumologia Pediatrica",
+        "duracion":  60,
+        "especialidad":  "Neumologia Pediatrica"
+    },
+    {
+        "nombre":  "Consulta de Nefrologia Pediatrica",
+        "duracion":  30,
+        "especialidad":  "Nefrologia Pediatrica"
+    },
+    {
+        "nombre":  "Consulta de Oncologia Pediatrica",
+        "duracion":  45,
+        "especialidad":  "Oncologia Pediatrica"
+    },
+    {
+        "nombre":  "Consulta de Neurologia Pediatrica",
+        "duracion":  60,
+        "especialidad":  "Neurologia Pediatrica"
+    },
+    {
+        "nombre":  "Consulta de Psiquiatria Infantil",
+        "duracion":  30,
+        "especialidad":  "Psiquiatria Infantil"
+    },
+    {
+        "nombre":  "Consulta de Medicina de Urgencias",
+        "duracion":  45,
+        "especialidad":  "Medicina de Urgencias"
+    }
 ]

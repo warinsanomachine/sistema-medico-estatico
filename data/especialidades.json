@@ -1,5 +1,152 @@
-[
-  { "nombre": "Pediatria" },
-  { "nombre": "Cardiologia" },
-  { "nombre": "Medicina General" }
+﻿[
+    {
+        "nombre":  "Pediatria"
+    },
+    {
+        "nombre":  "Cardiologia"
+    },
+    {
+        "nombre":  "Medicina General"
+    },
+    {
+        "nombre":  "Dermatologia"
+    },
+    {
+        "nombre":  "Ginecologia"
+    },
+    {
+        "nombre":  "Oftalmologia"
+    },
+    {
+        "nombre":  "Traumatologia"
+    },
+    {
+        "nombre":  "Neurologia"
+    },
+    {
+        "nombre":  "Psiquiatria"
+    },
+    {
+        "nombre":  "Oncologia"
+    },
+    {
+        "nombre":  "Urologia"
+    },
+    {
+        "nombre":  "Gastroenterologia"
+    },
+    {
+        "nombre":  "Endocrinologia"
+    },
+    {
+        "nombre":  "Neumologia"
+    },
+    {
+        "nombre":  "Nefrologia"
+    },
+    {
+        "nombre":  "Otorrinolaringologia"
+    },
+    {
+        "nombre":  "Anestesiologia"
+    },
+    {
+        "nombre":  "Reumatologia"
+    },
+    {
+        "nombre":  "Hematologia"
+    },
+    {
+        "nombre":  "Infectologia"
+    },
+    {
+        "nombre":  "Alergologia"
+    },
+    {
+        "nombre":  "Inmunologia"
+    },
+    {
+        "nombre":  "Geriatria"
+    },
+    {
+        "nombre":  "Medicina Interna"
+    },
+    {
+        "nombre":  "Cirugia General"
+    },
+    {
+        "nombre":  "Cirugia Plastica"
+    },
+    {
+        "nombre":  "Cirugia Cardiovascular"
+    },
+    {
+        "nombre":  "Cirugia Pediatrica"
+    },
+    {
+        "nombre":  "Neurocirugia"
+    },
+    {
+        "nombre":  "Medicina Familiar"
+    },
+    {
+        "nombre":  "Medicina Fisica"
+    },
+    {
+        "nombre":  "Medicina Deportiva"
+    },
+    {
+        "nombre":  "Medicina Intensiva"
+    },
+    {
+        "nombre":  "Medicina Forense"
+    },
+    {
+        "nombre":  "Medicina Nuclear"
+    },
+    {
+        "nombre":  "Toxicologia"
+    },
+    {
+        "nombre":  "Genetica Medica"
+    },
+    {
+        "nombre":  "Neonatologia"
+    },
+    {
+        "nombre":  "Patologia"
+    },
+    {
+        "nombre":  "Radiologia"
+    },
+    {
+        "nombre":  "Angiologia"
+    },
+    {
+        "nombre":  "Cardiologia Pediatrica"
+    },
+    {
+        "nombre":  "Endocrinologia Pediatrica"
+    },
+    {
+        "nombre":  "Gastroenterologia Pediatrica"
+    },
+    {
+        "nombre":  "Neumologia Pediatrica"
+    },
+    {
+        "nombre":  "Nefrologia Pediatrica"
+    },
+    {
+        "nombre":  "Oncologia Pediatrica"
+    },
+    {
+        "nombre":  "Neurologia Pediatrica"
+    },
+    {
+        "nombre":  "Psiquiatria Infantil"
+    },
+    {
+        "nombre":  "Medicina de Urgencias"
+    }
 ]

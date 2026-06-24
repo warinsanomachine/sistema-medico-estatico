@@ -1,5 +1,152 @@
-[
-  { "nombre": "Consultorio 1" },
-  { "nombre": "Consultorio 2" },
-  { "nombre": "Consultorio 3" }
+﻿[
+    {
+        "nombre":  "Consultorio 1"
+    },
+    {
+        "nombre":  "Consultorio 2"
+    },
+    {
+        "nombre":  "Consultorio 3"
+    },
+    {
+        "nombre":  "Consultorio 4"
+    },
+    {
+        "nombre":  "Consultorio 5"
+    },
+    {
+        "nombre":  "Consultorio 6"
+    },
+    {
+        "nombre":  "Consultorio 7"
+    },
+    {
+        "nombre":  "Consultorio 8"
+    },
+    {
+        "nombre":  "Consultorio 9"
+    },
+    {
+        "nombre":  "Consultorio 10"
+    },
+    {
+        "nombre":  "Consultorio 11"
+    },
+    {
+        "nombre":  "Consultorio 12"
+    },
+    {
+        "nombre":  "Consultorio 13"
+    },
+    {
+        "nombre":  "Consultorio 14"
+    },
+    {
+        "nombre":  "Consultorio 15"
+    },
+    {
+        "nombre":  "Consultorio 16"
+    },
+    {
+        "nombre":  "Consultorio 17"
+    },
+    {
+        "nombre":  "Consultorio 18"
+    },
+    {
+        "nombre":  "Consultorio 19"
+    },
+    {
+        "nombre":  "Consultorio 20"
+    },
+    {
+        "nombre":  "Consultorio 21"
+    },
+    {
+        "nombre":  "Consultorio 22"
+    },
+    {
+        "nombre":  "Consultorio 23"
+    },
+    {
+        "nombre":  "Consultorio 24"
+    },
+    {
+        "nombre":  "Consultorio 25"
+    },
+    {
+        "nombre":  "Consultorio 26"
+    },
+    {
+        "nombre":  "Consultorio 27"
+    },
+    {
+        "nombre":  "Consultorio 28"
+    },
+    {
+        "nombre":  "Consultorio 29"
+    },
+    {
+        "nombre":  "Consultorio 30"
+    },
+    {
+        "nombre":  "Consultorio 31"
+    },
+    {
+        "nombre":  "Consultorio 32"
+    },
+    {
+        "nombre":  "Consultorio 33"
+    },
+    {
+        "nombre":  "Consultorio 34"
+    },
+    {
+        "nombre":  "Consultorio 35"
+    },
+    {
+        "nombre":  "Consultorio 36"
+    },
+    {
+        "nombre":  "Consultorio 37"
+    },
+    {
+        "nombre":  "Consultorio 38"
+    },
+    {
+        "nombre":  "Consultorio 39"
+    },
+    {
+        "nombre":  "Consultorio 40"
+    },
+    {
+        "nombre":  "Consultorio 41"
+    },
+    {
+        "nombre":  "Consultorio 42"
+    },
+    {
+        "nombre":  "Consultorio 43"
+    },
+    {
+        "nombre":  "Consultorio 44"
+    },
+    {
+        "nombre":  "Consultorio 45"
+    },
+    {
+        "nombre":  "Consultorio 46"
+    },
+    {
+        "nombre":  "Consultorio 47"
+    },
+    {
+        "nombre":  "Consultorio 48"
+    },
+    {
+        "nombre":  "Consultorio 49"
+    },
+    {
+        "nombre":  "Consultorio 50"
+    }
 ]

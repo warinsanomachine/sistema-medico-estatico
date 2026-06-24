@@ -98,6 +98,12 @@ function isWithin30Days(date1Str, date2Str) {
 
 // --- State / LocalStorage management ---
 async function initDatabase() {
+    // Force reset localStorage if db version key is not present (to reload updated JSON files)
+    if (!localStorage.getItem('db_reset_v3')) {
+        localStorage.clear();
+        localStorage.setItem('db_reset_v3', 'true');
+    }
+
     const keys = ['pacientes', 'doctores', 'citas', 'situaciones', 'especialidades', 'consultorios', 'mensajes'];
     for (const key of keys) {
         if (!localStorage.getItem(key)) {

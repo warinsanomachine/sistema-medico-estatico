@@ -7,6 +7,27 @@
         "nivel":  3
     },
     {
+        "nombre":  "Andrea",
+        "apellidos":  "Gomez",
+        "email":  "andrea@paciente.com",
+        "contra":  "Andrea123",
+        "nivel":  1
+    },
+    {
+        "nombre":  "Augusto",
+        "apellidos":  "Perez",
+        "email":  "augusto@medico.com",
+        "contra":  "Augusto123",
+        "nivel":  2
+    },
+    {
+        "nombre":  "Daniel",
+        "apellidos":  "Rodriguez",
+        "email":  "daniel@medico.com",
+        "contra":  "Daniel123",
+        "nivel":  2
+    },
+    {
         "nombre":  "Doctor1",
         "apellidos":  "Perez1",
         "email":  "doctor1@medico.com",

@@ -1,5 +1,23 @@
 ﻿[
     {
+        "email":  "augusto@medico.com",
+        "especialidad":  "Pediatria",
+        "horI":  480,
+        "horF":  840,
+        "consultorio":  "Consultorio 1",
+        "FeProxC":  "",
+        "HoProxC":  ""
+    },
+    {
+        "email":  "daniel@medico.com",
+        "especialidad":  "Cardiologia",
+        "horI":  600,
+        "horF":  1020,
+        "consultorio":  "Consultorio 2",
+        "FeProxC":  "",
+        "HoProxC":  ""
+    },
+    {
         "email":  "doctor1@medico.com",
         "especialidad":  "Pediatria",
         "horI":  480,

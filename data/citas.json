@@ -1,5 +1,115 @@
 ﻿[
     {
+        "paciente":  "andrea@paciente.com",
+        "doctor":  "augusto@medico.com",
+        "Situacion":  "Consulta de Pediatria",
+        "Hora":  570,
+        "fecha":  "2026-06-26",
+        "consultorio":  "Consultorio 1",
+        "Especialidad":  "Pediatria",
+        "HoraF":  600,
+        "receta":  "El doctor no ha generado una receta aun"
+    },
+    {
+        "paciente":  "andrea@paciente.com",
+        "doctor":  "augusto@medico.com",
+        "Situacion":  "Consulta de Pediatria",
+        "Hora":  600,
+        "fecha":  "2026-06-27",
+        "consultorio":  "Consultorio 1",
+        "Especialidad":  "Pediatria",
+        "HoraF":  630,
+        "receta":  "El doctor no ha generado una receta aun"
+    },
+    {
+        "paciente":  "andrea@paciente.com",
+        "doctor":  "augusto@medico.com",
+        "Situacion":  "Consulta de Pediatria",
+        "Hora":  630,
+        "fecha":  "2026-06-28",
+        "consultorio":  "Consultorio 1",
+        "Especialidad":  "Pediatria",
+        "HoraF":  660,
+        "receta":  "El doctor no ha generado una receta aun"
+    },
+    {
+        "paciente":  "andrea@paciente.com",
+        "doctor":  "augusto@medico.com",
+        "Situacion":  "Consulta de Pediatria",
+        "Hora":  660,
+        "fecha":  "2026-06-29",
+        "consultorio":  "Consultorio 1",
+        "Especialidad":  "Pediatria",
+        "HoraF":  690,
+        "receta":  "El doctor no ha generado una receta aun"
+    },
+    {
+        "paciente":  "andrea@paciente.com",
+        "doctor":  "augusto@medico.com",
+        "Situacion":  "Consulta de Pediatria",
+        "Hora":  690,
+        "fecha":  "2026-06-30",
+        "consultorio":  "Consultorio 1",
+        "Especialidad":  "Pediatria",
+        "HoraF":  720,
+        "receta":  "El doctor no ha generado una receta aun"
+    },
+    {
+        "paciente":  "andrea@paciente.com",
+        "doctor":  "daniel@medico.com",
+        "Situacion":  "Consulta de Cardiologia",
+        "Hora":  660,
+        "fecha":  "2026-06-28",
+        "consultorio":  "Consultorio 2",
+        "Especialidad":  "Cardiologia",
+        "HoraF":  720,
+        "receta":  "El doctor no ha generado una receta aun"
+    },
+    {
+        "paciente":  "andrea@paciente.com",
+        "doctor":  "daniel@medico.com",
+        "Situacion":  "Consulta de Cardiologia",
+        "Hora":  720,
+        "fecha":  "2026-06-29",
+        "consultorio":  "Consultorio 2",
+        "Especialidad":  "Cardiologia",
+        "HoraF":  780,
+        "receta":  "El doctor no ha generado una receta aun"
+    },
+    {
+        "paciente":  "andrea@paciente.com",
+        "doctor":  "daniel@medico.com",
+        "Situacion":  "Consulta de Cardiologia",
+        "Hora":  780,
+        "fecha":  "2026-06-30",
+        "consultorio":  "Consultorio 2",
+        "Especialidad":  "Cardiologia",
+        "HoraF":  840,
+        "receta":  "El doctor no ha generado una receta aun"
+    },
+    {
+        "paciente":  "andrea@paciente.com",
+        "doctor":  "daniel@medico.com",
+        "Situacion":  "Consulta de Cardiologia",
+        "Hora":  840,
+        "fecha":  "2026-06-25",
+        "consultorio":  "Consultorio 2",
+        "Especialidad":  "Cardiologia",
+        "HoraF":  900,
+        "receta":  "El doctor no ha generado una receta aun"
+    },
+    {
+        "paciente":  "andrea@paciente.com",
+        "doctor":  "daniel@medico.com",
+        "Situacion":  "Consulta de Cardiologia",
+        "Hora":  900,
+        "fecha":  "2026-06-26",
+        "consultorio":  "Consultorio 2",
+        "Especialidad":  "Cardiologia",
+        "HoraF":  960,
+        "receta":  "El doctor no ha generado una receta aun"
+    },
+    {
         "paciente":  "paciente1@paciente.com",
         "doctor":  "doctor1@medico.com",
         "Situacion":  "Consulta de Pediatria",
@@ -437,116 +547,6 @@
         "consultorio":  "Consultorio 40",
         "Especialidad":  "Radiologia",
         "HoraF":  570,
-        "receta":  "El doctor no ha generado una receta aun"
-    },
-    {
-        "paciente":  "paciente41@paciente.com",
-        "doctor":  "doctor41@medico.com",
-        "Situacion":  "Consulta de Angiologia",
-        "Hora":  540,
-        "fecha":  "2026-06-29",
-        "consultorio":  "Consultorio 41",
-        "Especialidad":  "Angiologia",
-        "HoraF":  585,
-        "receta":  "El doctor no ha generado una receta aun"
-    },
-    {
-        "paciente":  "paciente42@paciente.com",
-        "doctor":  "doctor42@medico.com",
-        "Situacion":  "Consulta de Cardiologia Pediatrica",
-        "Hora":  540,
-        "fecha":  "2026-06-30",
-        "consultorio":  "Consultorio 42",
-        "Especialidad":  "Cardiologia Pediatrica",
-        "HoraF":  600,
-        "receta":  "El doctor no ha generado una receta aun"
-    },
-    {
-        "paciente":  "paciente43@paciente.com",
-        "doctor":  "doctor43@medico.com",
-        "Situacion":  "Consulta de Endocrinologia Pediatrica",
-        "Hora":  540,
-        "fecha":  "2026-06-25",
-        "consultorio":  "Consultorio 43",
-        "Especialidad":  "Endocrinologia Pediatrica",
-        "HoraF":  570,
-        "receta":  "El doctor no ha generado una receta aun"
-    },
-    {
-        "paciente":  "paciente44@paciente.com",
-        "doctor":  "doctor44@medico.com",
-        "Situacion":  "Consulta de Gastroenterologia Pediatrica",
-        "Hora":  540,
-        "fecha":  "2026-06-26",
-        "consultorio":  "Consultorio 44",
-        "Especialidad":  "Gastroenterologia Pediatrica",
-        "HoraF":  585,
-        "receta":  "El doctor no ha generado una receta aun"
-    },
-    {
-        "paciente":  "paciente45@paciente.com",
-        "doctor":  "doctor45@medico.com",
-        "Situacion":  "Consulta de Neumologia Pediatrica",
-        "Hora":  540,
-        "fecha":  "2026-06-27",
-        "consultorio":  "Consultorio 45",
-        "Especialidad":  "Neumologia Pediatrica",
-        "HoraF":  600,
-        "receta":  "El doctor no ha generado una receta aun"
-    },
-    {
-        "paciente":  "paciente46@paciente.com",
-        "doctor":  "doctor46@medico.com",
-        "Situacion":  "Consulta de Nefrologia Pediatrica",
-        "Hora":  540,
-        "fecha":  "2026-06-28",
-        "consultorio":  "Consultorio 46",
-        "Especialidad":  "Nefrologia Pediatrica",
-        "HoraF":  570,
-        "receta":  "El doctor no ha generado una receta aun"
-    },
-    {
-        "paciente":  "paciente47@paciente.com",
-        "doctor":  "doctor47@medico.com",
-        "Situacion":  "Consulta de Oncologia Pediatrica",
-        "Hora":  540,
-        "fecha":  "2026-06-29",
-        "consultorio":  "Consultorio 47",
-        "Especialidad":  "Oncologia Pediatrica",
-        "HoraF":  585,
-        "receta":  "El doctor no ha generado una receta aun"
-    },
-    {
-        "paciente":  "paciente48@paciente.com",
-        "doctor":  "doctor48@medico.com",
-        "Situacion":  "Consulta de Neurologia Pediatrica",
-        "Hora":  540,
-        "fecha":  "2026-06-30",
-        "consultorio":  "Consultorio 48",
-        "Especialidad":  "Neurologia Pediatrica",
-        "HoraF":  600,
-        "receta":  "El doctor no ha generado una receta aun"
-    },
-    {
-        "paciente":  "paciente49@paciente.com",
-        "doctor":  "doctor49@medico.com",
-        "Situacion":  "Consulta de Psiquiatria Infantil",
-        "Hora":  540,
-        "fecha":  "2026-06-25",
-        "consultorio":  "Consultorio 49",
-        "Especialidad":  "Psiquiatria Infantil",
-        "HoraF":  570,
-        "receta":  "El doctor no ha generado una receta aun"
-    },
-    {
-        "paciente":  "paciente50@paciente.com",
-        "doctor":  "doctor50@medico.com",
-        "Situacion":  "Consulta de Medicina de Urgencias",
-        "Hora":  540,
-        "fecha":  "2026-06-26",
-        "consultorio":  "Consultorio 50",
-        "Especialidad":  "Medicina de Urgencias",
-        "HoraF":  585,
         "receta":  "El doctor no ha generado una receta aun"
     }
 ]
